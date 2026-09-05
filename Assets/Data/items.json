@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "lahpet", "name": "Lahpet (tea leaf)", "price": 5 },
+    { "id": "fried_rice", "name": "Fried Rice", "price": 10 },
+    { "id": "thanaka", "name": "Thanaka", "price": 3 }
+  ]
+}

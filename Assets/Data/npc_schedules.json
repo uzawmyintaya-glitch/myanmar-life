@@ -1,0 +1,24 @@
+{
+  "npcs": [
+    {
+      "id": "npc_1",
+      "name": "U Aung",
+      "role": "vendor",
+      "schedule": [
+        { "from": 420, "to": 720, "activity": "OpenStall" },
+        { "from": 720, "to": 1080, "activity": "Break" },
+        { "from": 1080, "to": 1320, "activity": "VisitPagoda" }
+      ]
+    },
+    {
+      "id": "npc_2",
+      "name": "Daw Su",
+      "role": "tea_owner",
+      "schedule": [
+        { "from": 300, "to": 600, "activity": "PrepareTea" },
+        { "from": 600, "to": 1200, "activity": "ServeCustomers" },
+        { "from": 1200, "to": 1380, "activity": "FamilyTime" }
+      ]
+    }
+  ]
+}
